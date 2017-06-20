@@ -85,9 +85,9 @@ public class OWL_RE82_RB73 {public static void main(String[] args) throws Except
 	
 	
 	/*Trains non commerciaux*/
-	String nomFichier2 = new String("input/EmptyTrains.xlsx");
-	FileInputStream file2 = new FileInputStream(nomFichier2);
-	XSSFWorkbook Classeur2 = new XSSFWorkbook(file2);	
+	//String nomFichier2 = new String("input/EmptyTrains.xlsx");
+	//FileInputStream file2 = new FileInputStream(nomFichier2);
+	//XSSFWorkbook Classeur2 = new XSSFWorkbook(file2);	
 	//InputEmptyTrains dataW = new InputEmptyTrains();		
 	//ListeTache.addAll(dataW.getTaches(Classeur2, "OWL")); 
 	
